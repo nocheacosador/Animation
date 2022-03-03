@@ -1,0 +1,1 @@
+java -cp "%CD%\bin;%CD%\lib\processing\core.jar;%CD%\lib\processing\gluegen-rt.jar;%CD%\lib\processing\jogl-all.jar" Animation

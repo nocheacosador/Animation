@@ -1,0 +1,1 @@
+javac -d bin -classpath "%CD%\lib\processing\core.jar;%CD%\lib\processing\gluegen-rt.jar;%CD%\lib\processing\jogl-all.jar" -sourcepath src src/*.java
